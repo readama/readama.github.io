@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://readama.github.io/sitemap.html.gz
+Sitemap: https://readama.github.io/app/sitemap.html.gz
+Sitemap: https://readama.github.io/assets/sitemap.html.gz
+Sitemap: https://readama.github.io/css/sitemap.html.gz
+Sitemap: https://readama.github.io/includes/sitemap.html.gz
+Sitemap: https://readama.github.io/item/sitemap.html.gz
+Sitemap: https://readama.github.io/src/sitemap.html.gz
